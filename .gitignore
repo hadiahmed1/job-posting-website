@@ -34,3 +34,5 @@ npm-debug.log*
 next-env.d.ts
 
 /app/generated/prisma
+
+/app/generated/prisma
